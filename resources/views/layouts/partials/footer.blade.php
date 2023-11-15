@@ -10,7 +10,6 @@
 </footer>
 </div>
 </div>
-
 @stack('modal')
 {{-- <script src="https://unpkg.com/pdfjs-dist@2.12.313/build/pdf.min.js"></script>
 <script src="https://unpkg.com/pdfjs-dist@2.12.313/build/pdf.worker.min.js"></script> --}}
